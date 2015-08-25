@@ -6,5 +6,8 @@
         "psr-4": {
             "SafeBrowsing\\": "src/SafeBrowsing"
         }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.0"
     }
 }
